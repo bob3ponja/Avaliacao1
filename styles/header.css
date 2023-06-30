@@ -51,6 +51,9 @@
   -webkit-text-fill-color: transparent;
   background-clip: text;
   text-transform: uppercase;
+}
 
-
+.Titulo_Li, .Item_Li{
+  padding: 1em;
+  background-color: var(--branco)
 }
